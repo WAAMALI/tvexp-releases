@@ -1,0 +1,10 @@
+{
+  "service": "tv",
+  "platform": "android",
+  "version": "2.3.2",
+  "versionCode": 13,
+  "applicationId": "com.tvexp.iptv.tv",
+  "apk": "TVEXP-TV-2.3.2.apk",
+  "releaseTag": "tv-v2.3.2",
+  "downloadUrl": "https://github.com/WAAMALI/tvexp-releases/releases/download/tv-v2.3.2/TVEXP-TV-2.3.2.apk"
+}
