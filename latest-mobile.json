@@ -4,7 +4,8 @@
   "version": "2.3.3",
   "versionCode": 14,
   "applicationId": "com.tvexp.iptv",
-  "apk": "TVEXP-Mobile-2.3.3.apk",
+  "apk": "TVEXP-Mobile-2.3.3-universal.apk",
+  "apkVariants": "TVEXP-Mobile-2.3.3-arm64-v8a-mobile-release.apk TVEXP-Mobile-2.3.3-armeabi-v7a-mobile-release.apk TVEXP-Mobile-2.3.3-x86_64-mobile-release.apk",
   "releaseTag": "mobile-v2.3.3",
-  "downloadUrl": "https://github.com/WAAMALI/tvexp-releases/releases/download/mobile-v2.3.3/TVEXP-Mobile-2.3.3.apk"
+  "downloadUrl": "https://github.com/WAAMALI/tvexp-releases/releases/download/mobile-v2.3.3/TVEXP-Mobile-2.3.3-universal.apk"
 }
