@@ -1,10 +1,10 @@
 {
   "service": "tv",
   "platform": "android",
-  "version": "2.3.5",
-  "versionCode": 16,
+  "version": "2.3.6",
+  "versionCode": 17,
   "applicationId": "com.tvexp.iptv.tv",
-  "apk": "TVEXP-TV-2.3.5-arm64-v8a-tv-release.apk",
-  "releaseTag": "tv-v2.3.5",
-  "downloadUrl": "https://github.com/WAAMALI/tvexp-releases/releases/download/tv-v2.3.5/TVEXP-TV-2.3.5-arm64-v8a-tv-release.apk"
+  "apk": "TVEXP-TV-2.3.6-arm64-v8a-tv-release.apk",
+  "releaseTag": "tv-v2.3.6",
+  "downloadUrl": "https://github.com/WAAMALI/tvexp-releases/releases/download/tv-v2.3.6/TVEXP-TV-2.3.6-arm64-v8a-tv-release.apk"
 }
