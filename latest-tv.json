@@ -1,11 +1,11 @@
 {
   "service": "tv",
   "platform": "android",
-  "version": "2.3.3",
-  "versionCode": 14,
+  "version": "2.3.4",
+  "versionCode": 15,
   "applicationId": "com.tvexp.iptv.tv",
-  "apk": "TVEXP-TV-2.3.3-universal.apk",
-  "apkVariants": "TVEXP-TV-2.3.3-arm64-v8a-tv-release.apk TVEXP-TV-2.3.3-armeabi-v7a-tv-release.apk TVEXP-TV-2.3.3-x86_64-tv-release.apk",
-  "releaseTag": "tv-v2.3.3",
-  "downloadUrl": "https://github.com/WAAMALI/tvexp-releases/releases/download/tv-v2.3.3/TVEXP-TV-2.3.3-universal.apk"
+  "apk": "TVEXP-TV-2.3.4-universal.apk",
+  "apkVariants": "TVEXP-TV-2.3.4-arm64-v8a-tv-release.apk TVEXP-TV-2.3.4-armeabi-v7a-tv-release.apk TVEXP-TV-2.3.4-x86_64-tv-release.apk",
+  "releaseTag": "tv-v2.3.4",
+  "downloadUrl": "https://github.com/WAAMALI/tvexp-releases/releases/download/tv-v2.3.4/TVEXP-TV-2.3.4-universal.apk"
 }
